@@ -1,4 +1,4 @@
-##Kubernetes
+## Kubernetes
 ### Simples aplicação para visualização do k8s em ambiente local
 
 - **O que é esta tecnologia?**
@@ -20,7 +20,7 @@
 	- Kubelet:um serviço executado nos nós que lê os manifestos do container e garante que os containers definidos foram iniciados e estão em execução.
 	- kubectl: a ferramenta de configuração da linha de comando do Kubernetes.
 
-###Passos para testar local
+## Passos para testar local
 - instalar kubectl
 - Instalar alguma das ferramentas que simulam o K8S, usei o Kind
 - Gerar imagem e publicar em algum gerenciador( eg: Docker hub), ou utilizar alguma imagem existente publica (usei nginx)
@@ -79,7 +79,7 @@ Commercial support is available at
 
 
 
-#### Referencias:
+### Referencias:
 
 [https://www.redhat.com/pt-br/topics/containers/what-is-kubernetes#:~:text=Kubernetes%2C%20ou%20%E2%80%9Ck8s%E2%80%9D%2C,as%20opera%C3%A7%C3%B5es%20dos%20containers%20Linux.&text=Por%20isso%2C%20o%20Kubernetes%20%C3%A9,por%20meio%20do%20Apache%20Kafka][Red Hat - O que é o Kubernetes].
 
